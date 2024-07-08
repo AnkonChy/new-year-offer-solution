@@ -380,3 +380,57 @@ body {
     width: 100%;
 
 }
+
+
+/* footer styles */
+.footer-container {
+    width: 1920px;
+    height: 500px;
+    /* border: 2px solid red */
+    background: rgb(7, 2, 17);
+    padding: 50px;
+}
+
+.footer-details {
+    display: flex;
+    margin-bottom: 100px;
+    justify-content: space-around;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.contact {
+    display: flex;
+}
+
+.hr {
+    width: 1251px;
+    margin: 0 auto;
+
+}
+
+.social-icons {
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.copyright {
+    display: flex;
+    justify-content: space-around;
+    color: #FFFFFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 50px;
+}
+
+.hr1 {
+    margin: 0 auto;
+    width: 1251px;
+}
